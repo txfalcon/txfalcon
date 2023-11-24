@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @txfalcon
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning HTML.
-- 💞️ I’m looking to collaborate on beginner HTML projects.
+- 🌱 I’m currently learning HTML and CSS via freeCodeCamp
+- 💞️ I’m looking to collaborate on beginner HTML and CSS projects.
 - 📫 How to reach me on linkedin at www.linkedin.com/in/joshua-hoke-aa8860202
 
 <!---
